@@ -1,0 +1,6 @@
+The LTTng User Space Tracing (LTTng-UST) library allows any C/C++
+application to be instrumented for and traced by LTTng.
+
+LTTng-UST also includes a logging back-end for Java applications
+and various dynamically loadable user space tracing helpers for
+any application.
